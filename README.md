@@ -14,7 +14,7 @@ The results herein show that unsupervised ranking models designed for decentrali
 
 ---
 
-## Instructions
+## Outline
 
 This repository contains a Jupyter Notebook file containing all data sets, methods, and functionality to experiment with G-Rank.
 Each cell represents a simulation module, including the Node object, Network object, and each of G-Rank's core functions.
