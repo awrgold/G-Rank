@@ -22,11 +22,12 @@ Below the break is the simulation loop, including all simulation parameters and 
 Anyone can comment out or augment the simulation parameters to hone in on specific simulations, or run all simulations consecutively.
 
 The simulation is based on discrete time steps.
-Depending on parameters, each time step takes anywhere from 30 milliseconds to 2000 milliseconds, with the highest performance impact stemming from two features:
+Depending on parameters, each time step takes anywhere from 30 milliseconds to 2000 milliseconds, with the highest performance impact stemming from three features:
 - The gossip protocol, *i.e.* how many peers request and receive gossip, and
-- The frequency with which nodes update their local information.
+- The frequency with which nodes update their local information, and
+- The type of adversarial attack, *i.e.* simulations with many adversaries OR a high degree of adversarial interference strongly impact simulation time.
 
 Small simulations (10 nodes, 1000 time steps) can take anywhere from 2-10 minutes (on a modern desktop PC with 16GB RAM).
-Large simulations (100+ nodes, 10000+ time steps) can take anywhere from 30-400 minutes (on a modern desktop PC with 16GB RAM).
+Large simulations (100+ nodes, 10000+ time steps) can take anywhere from 30-1000 minutes (on a modern desktop PC with 16GB RAM).
 
 
