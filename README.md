@@ -3,8 +3,6 @@ G-Rank - Unsupervised Continuous Learn-to-Rank for Edge Devices in p2p Networks.
 
 - Paper: https://arxiv.org/pdf/2301.12530.pdf
 
-**This project was my Master's thesis graduation project for 45 ECTS at Delft University of Technology (TU Delft) in The Netherlands, receiving a final grade of 8.0 (4.0 USA GPA).**
-
 ## Abstract
 
 *Ranking algorithms in traditional search engines are powered by enormous training data sets that are meticulously engineered and curated by a centralized entity.
