@@ -34,4 +34,5 @@ Depending on parameters, each time step takes anywhere from 30 milliseconds to 2
 Small simulations (10 nodes, 1000 time steps) can take anywhere from 2-10 minutes (on a modern desktop PC with 16GB RAM).
 Large simulations (100+ nodes, 10000+ time steps) can take anywhere from 30-1000 minutes (on a modern desktop PC with 16GB RAM).
 
+Extrapolating this experiment into a truly distributed simulation is also possible, but will require a few additional steps. 
 
