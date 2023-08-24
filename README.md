@@ -1,5 +1,4 @@
-# G-Rank
-G-Rank - Unsupervised Continuous Learn-to-Rank for Edge Devices in p2p Networks. 
+# G-Rank - Unsupervised Continuous Learn-to-Rank for Edge Devices in p2p Networks
 
 - Paper: https://arxiv.org/pdf/2301.12530.pdf
 
