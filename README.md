@@ -19,7 +19,6 @@ The results herein show that unsupervised ranking models designed for decentrali
 
 This repository contains a Jupyter Notebook file containing all data sets, methods, and functionality to experiment with G-Rank.
 No setup is required beyond installing the proper libraries is required. Required libraries are: `Pandas`, `Numpy`, `Plotly-express`, and `Matplotlib`. 
-Versions of these libraries should not matter and should be intercompatible.
 Each cell represents a simulation module, including the Node object, Network object, and each of G-Rank's core functions.
 Below the break is the simulation loop, including all simulation parameters and evaluation metrics.
 Anyone can comment out or augment the simulation parameters to hone in on specific simulations, or run all simulations consecutively.
