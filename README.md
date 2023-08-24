@@ -10,7 +10,7 @@ As such, robust search-and-rank algorithms designed for such domains must be eng
 We introduce G-Rank, an unsupervised ranking algorithm designed exclusively for decentralized networks. We demonstrate that accurate, relevant ranking results can be achieved in fully decentralized networks without any centralized data aggregation, feature engineering, or model training. 
 Furthermore, we show that such results are obtainable with minimal data preprocessing and computational overhead, and can still return highly relevant results even when a user's device is disconnected from the network. 
 G-Rank is highly modular in design, is not limited to categorical data, and can be implemented in a variety of domains with minimal modification. 
-The results herein show that unsupervised ranking models designed for decentralized p2p networks are not only viable, but worthy of further research.*
+The results herein show that unsupervised ranking models designed for decentralized p2p networks are not only viable, but also worthy of further research.*
 
 
 ---
